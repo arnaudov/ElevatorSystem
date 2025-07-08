@@ -33,7 +33,7 @@ As part of the projects, tests are also included for testability of the project.
 
 ### Unit Tests
 - `ElevatorTests` — Adding destinations, direction logic, floor movement
-- `ORganizerTests` — Request handling and assignment logic
+- `OrganizerTests` — Request handling and assignment logic
 
 ### Integration Tests
 - When simultaneous requests happened, assign them to correct elevators
